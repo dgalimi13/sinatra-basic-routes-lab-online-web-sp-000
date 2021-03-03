@@ -11,7 +11,7 @@ get '/hometown' do
 end
 
 get '/favorite-song' do
-  "my favorite song is Where i end and you begin"
+  "My favorite song is Where i end and you begin"
 end
 
 end
